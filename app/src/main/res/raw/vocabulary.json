@@ -1,0 +1,84 @@
+{
+    "vocabulary": [
+        {
+            "polish": "kot",
+            "spanish": "el gato"
+        },
+        {
+            "polish": "pies",
+            "spanish": "el perro"
+        },
+        {
+            "polish": "dom",
+            "spanish": "la casa"
+        },
+        {
+            "polish": "samochód",
+            "spanish": "el coche"
+        },
+        {
+            "polish": "jabłko",
+            "spanish": "la manzana"
+        },
+        {
+            "polish": "książka",
+            "spanish": "el libro"
+        },
+        {
+            "polish": "szkoła",
+            "spanish": "la escuela"
+        },
+        {
+            "polish": "komputer",
+            "spanish": "la computadora"
+        },
+        {
+            "polish": "szklanka",
+            "spanish": "el vaso"
+        },
+        {
+            "polish": "krzesło",
+            "spanish": "la silla"
+        },
+        {
+            "polish": "drzwi",
+            "spanish": "la puerta"
+        },
+        {
+            "polish": "okno",
+            "spanish": "la ventana"
+        },
+        {
+            "polish": "kuchnia",
+            "spanish": "la cocina"
+        },
+        {
+            "polish": "łazienka",
+            "spanish": "el baño"
+        },
+        {
+            "polish": "pokój",
+            "spanish": "el cuarto"
+        },
+        {
+            "polish": "ogród",
+            "spanish": "el jardín"
+        },
+        {
+            "polish": "basen",
+            "spanish": "la piscina"
+        },
+        {
+            "polish": "praca",
+            "spanish": "el trabajo"
+        },
+        {
+            "polish": "miłość",
+            "spanish": "el amor"
+        },
+        {
+            "polish": "świat",
+            "spanish": "el mundo"
+        }
+    ]
+}
